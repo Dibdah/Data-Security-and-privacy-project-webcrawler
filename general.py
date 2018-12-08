@@ -1,6 +1,6 @@
 '''
 Reference:
-Bucky Roberts "thenewbosten" open source crawller:
+Bucky Roberts "thenewbosten" open source crawler:
 https://github.com/buckyroberts/Spider.git
 '''
 import os
