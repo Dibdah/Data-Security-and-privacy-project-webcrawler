@@ -21,7 +21,7 @@ class Get_Policy:
             # page_bytes = urlopen(self.URL)
             # html_page = page_bytes.decode("utf-8")
             # print(html_page)
-            extractor = Extractor(extractor='ArticleExtract', url=self.URL)
+            extractor = Extractor(extractor='ArticleExtractor', url=self.URL)
             print(extractor.getText())
             write_file(self.project_name, extractor.getText())
         except:
