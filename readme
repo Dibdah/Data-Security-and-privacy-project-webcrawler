@@ -1,1 +1,19 @@
+Data Security and privacy term project
 Web Crawler
+
+This web crwaler finds links with the word privacy in them and stores their content.
+
+Getting Started
+
+Please follow these instructions to run the project:
+
+Prerequisites:
+Install: boilerpipe
+
+Running the test
+
+Run crawl_homepage.py
+
+Author
+
+Duha Ibdah
