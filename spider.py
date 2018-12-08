@@ -1,3 +1,8 @@
+'''
+Reference:
+Bucky Roberts "thenewbosten" open source crawler:
+https://github.com/buckyroberts/Spider.git
+'''
 from urllib.request import urlopen
 from link_finder import LinkFinder
 from general import *
