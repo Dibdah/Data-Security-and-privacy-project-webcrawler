@@ -1,3 +1,8 @@
+'''
+Reference:
+Bucky Roberts "thenewbosten" open source crawller:
+https://github.com/buckyroberts/Spider.git
+'''
 from html.parser import HTMLParser
 from urllib import parse
 
